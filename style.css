@@ -1,0 +1,27 @@
+  .dicetext{ font-size:xx-large;
+   padding-left:35%;
+ color:rgb(255, 6, 6);} 
+
+ .dicetext2{ font-size:xx-large;
+    padding-left:35%;
+ color:rgb(255, 6, 6);} 
+
+.text{ color:black;
+    font-size:xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+
+     .foooter{ padding-left:5%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: x-large;} 
+
+.img1{ display:block;
+    margin-left:auto;
+        margin-right:auto;
+        width:30%;}
+
+.img2{ display:block;
+    margin-left:auto;
+        margin-right:auto;
+        width:30%;}
+    
